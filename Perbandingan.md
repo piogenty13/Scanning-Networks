@@ -15,5 +15,5 @@ Tiga alat yang sering digunakan adalah Nmap, Zenmap dan Angry IP Scanner. Meskip
 
 Ringkasan Perbedaan:
 1. Nmap: Paling kuat, fleksibel, dan mendalam, namun berbasis command-line sehingga membutuhkan pemahaman teknis.
-2. Zenmap: GUI untuk Nmap, menawarkan kemudahan penggunaan dengan antarmuka visual tanpa mengorbankan kemampuan Nmap.
-3. Angry IP Scanner: Lebih cepat dan sederhana, cocok untuk scanning jaringan dasar dengan antarmuka GUI yang mudah dipahami.
+2. Zenmap: GUI untuk Nmap, menawarkan kemudahan penggunaan dengan antarmuka visual tanpa mengorbankan kemampuan Nmap.Zenmap, melalui antarmuka grafisnya, menyederhanakan penggunaan Nmap dan menyediakan akses yang lebih mudah ke fiturnya tanpa mengurangi kapabilitasnya. Ini sangat sesuai bagi pengguna yang lebih memilih antarmuka visual daripada berbasis teks.
+3. Angry IP Scanner: Lebih cepat dan sederhana, cocok untuk scanning jaringan dasar dengan antarmuka GUI yang mudah dipahami,cocok bagi pengguna yang hanya memerlukan informasi dasar seperti perangkat yang aktif di jaringan tanpa harus melakukan banyak konfigurasi.
